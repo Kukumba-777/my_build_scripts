@@ -1,0 +1,13 @@
+/out/
+/dist/
+__pycache__/
+*.pyc
+*.ko
+*.ko.*
+*.img
+*.img.*
+*.zip
+*.o
+*.log
+.config
+Module.symvers
